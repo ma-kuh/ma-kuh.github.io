@@ -20,6 +20,6 @@ const Footer = (props) => {
 };
 
 ReactDOM.render(
-  html`<${Header}${Main}${Footer}>`,
+  html`<${Header} /><${Main} /><${Footer} />`,
   document.getElementById("root")
 );
