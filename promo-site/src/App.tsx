@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <div>
-        Marcial Sandoval's Promo Site
+        Marcial Sandoval's Deployed Promo site
       </div>
       <div>
         <a href="https://vite.dev" target="_blank">
